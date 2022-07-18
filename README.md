@@ -4,3 +4,7 @@
 Desenvolvedor Fullstack com formação pelo SENAI-SP em desenvolvimento de sistemas, competidor na WRO, OBR e OBMEP que ama aprender e estudar! Cursando o Ensino Médio e futuramente Engenharia da Computação.\
 \
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-perigo/)
+
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
