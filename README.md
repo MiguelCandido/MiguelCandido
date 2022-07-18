@@ -1,3 +1,4 @@
+
 # Hey there, I'm Miguel!
 
 ##  Sobre mim:
@@ -5,6 +6,9 @@ Desenvolvedor Fullstack com formação pelo SENAI-SP em desenvolvimento de siste
 \
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-perigo/)
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+
+😄 Pronomes: Ele/dele
+
+🧠 Estou aprendendo sobre implantações de IA no serviço Azure
+
+
